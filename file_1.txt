@@ -1,1 +1,2 @@
 origin_1 - commit_1 - edit 1
+origin_1 - commit_2 - edit 2
